@@ -1,6 +1,4 @@
-import redis
 import redis_config
-import time
 import json
 
 def mapper(input_file):
